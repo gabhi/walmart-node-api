@@ -1,0 +1,21 @@
+{
+  "name": "walamrt-node-api",
+  "version": "0.0.0",
+  "description": "node js api client for accessing walamart api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "walamart",
+    "node",
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "Abhijit Gaikwad",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "restify": "~2.8.1"
+  }
+}
